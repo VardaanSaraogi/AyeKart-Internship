@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supplychainproject-f0b99",
+  "private_key_id": "c5d0b7f1792d8a4a6f99e250fc7c1dd1ff5af9f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDN2oHZ0PrhucGr\n30bTVmUISXzdU8IuaT/5tAZTxxy3mmQE53aBSsA3ZDnKLnmBZGadWYVWpJmsFY4t\nqQGWTKjNtamy958KsMEe2f0fU5k2bMiUi954lMDA6tiLksZPr6bwbddqv8u7R/0F\nHvOy/LPs6CAI0v1OsyxDzxhQHsFqAnu+xeRi4PiwgCHVGpO9rjgurswB+NqkR2Cb\nW3AAWZvIOJXXO3ahtsopKyDg1EcfL/ChHB2vUu5DOcdsqOnUbwqAUScguDe4z6MZ\nDcKiXtzHCC0kbUshC/8WvSXrjhcumzgV3ytEBxw8VD4YZ0CfD3y/M7BEY64R+cnq\n8XquJMv1AgMBAAECggEAMaWnd579Qv+IBCm/bS0DBPKkWMTgqkzcDx8p/36gIG/t\n+3jPjfM3VKSpg2eeCmTqkryKehEMtwIj3kNKjLNEawiLOwyZoPxsN0Kf17RT2Vp3\nLcxmBXLq4hxBybfGeGWGv6neMHK9che0oE2MvPhRdKuvPjGUwixYWqpR1ND2GNi9\neYwb6Cz/3ItAhpeiyP/Wvg6tSPleplpRfz2ANowe+S6dFa35g7mE1+JdMXYC0JqM\n1fhZAIzl9WOtzDT/BInyALwOeRZ0NDVKNPq16UWUy76OfBtZkxvAjoyLRfS7Y8Vx\nUeg+/PMo5jwD1ahjBxYXZHO/a0t2LijSO0HRqp0+6QKBgQD2XPqV6zJTbj6MjJ4p\n0dDo5UNy01Nfc37thtHNiGuznuKD8WOoCBR2M1hCSM8kAWmB56msgG6ON69XzHBo\nT5RZbgk/qj66vrgMwOHPFJBOExSqA/BV95CNZcfWr+/3DxitD6jX4g+ec4KdT6Ku\n7XUpxftV1HahzYslGzAaSJ8b1wKBgQDV59/if3EZQ8K3O7h64oZ4Cd/HUsD01HKt\nCbwUOye0DYR8AwL/6CMtW5UL8k/EAE7Y9tg0VcPYN7KuVxCkm5xb9vC/gQUD6hkq\n9UMAJ65CwLl17qu0oNP6nE5keXSTf3norqlezEcEnOlvhSka6wReyb8LYcnYce2F\nGQboqni9EwKBgQCVMl/LNOGIZyZYJbyPJPK4aEd9nX9LOf2vSUt7hld7MwiI0UIB\n+8qwfo2/rqpLatODiVFXF3xcglqc+EFG2pLDygCt3qMYovGBP7pAl3qA3ctQ3wvI\ndCHFj9MDMA9J9omCHQ6qlsvQsLF0JUsnVsTypGR+aSni+UCAG0P5VuuMhwKBgQCo\nC3fpmrEhZghspvAxKhD18Nvq3WpVbSmCI2msgySX4R65xivvG1G3aoFXV0+u7YcE\nEDieNNqc3HT1XdTnXJCj9wX/jL6B6sFG7FNspb/TFVEeAxjF2Ktv8KftazVYQwdk\n8wKARP9t8k+5muVGDmfqh5gcuwA1mJs+uwCgfHxKHQKBgAe1g/1Am+tI87H+UwhT\nU38P0r71qfPvui+ha64KcX+ygWEcId9tEyObAhtaaz7PTTNy5sIZTKAHcjFMnj4N\nXDvaiHF7WZeX46s6Rj9HkK1KMpS4dRiOZv1kjPig32aQA5fpTQtNADqQVdUHk9Uz\n/S1nue9ttQYwra9/S0wJV9DW\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-g1vbp@supplychainproject-f0b99.iam.gserviceaccount.com",
+  "client_id": "100934828615984929301",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g1vbp%40supplychainproject-f0b99.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
